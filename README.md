@@ -151,4 +151,5 @@ git remote add YamashitaIriePractExtra2425 https://github.com/irie-yamashita/Yam
 
 git push  YamashitaIriePractExtra2425 master
 ```
-![alt text](src/4_remote.png)
+![alt text](src/4_remote.png)  
+![alt text](src/4_repRemote.png)
